@@ -2,7 +2,7 @@
 
 生效日期：2026 年 9 月 17 日
 
-適用版本：0.1.1
+適用版本：0.1.1、0.1.2
 
 開發與維護：[MartiniTW](https://github.com/MartiniTW)
 
